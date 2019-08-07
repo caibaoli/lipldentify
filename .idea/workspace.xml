@@ -1,0 +1,617 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="df507d27-7e55-4d49-9c8c-6e030a20ad34" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../calculate/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculate/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculate/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculate/.idea/thriftCompiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculate/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculate/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculate/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculate/calculate.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculate/out/production/calculate/tree/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculate/out/production/calculate/tree/TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculate/out/production/calculate/tree/TreeTools.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculate/src/copyTree/CtreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculate/src/tree/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculate/src/tree/Tools.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculate/src/tree/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculate/src/tree/TreeTools.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/lipIdentify.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/camera.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/color_json/lipstick.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/color_json/shape_predictor_68_face_landmarks.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/color_json/tomato.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/compareColor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/detectMouth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/getColor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/face.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/input/source.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/input/source2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lipColor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/Mouth1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/Mouth2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../paper/MovieLens-RecSys-master/.idea/MovieLens-RecSys-master.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../paper/MovieLens-RecSys-master/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../paper/MovieLens-RecSys-master/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../paper/MovieLens-RecSys-master/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../paper/movie_recommender-master/.idea/other.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../paper/movie_recommender-master/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BCLOUD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/bin/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/bin/noah_control" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/bin/supervise.send-gateway" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/config/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/config/application-prod.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/config/application-test.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/config/logback-spring.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/data/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/log/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/matrix/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/noahdes/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/opbin/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/opbin/jvm_monitor.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/tmp/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkstyle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/zhiban-adaptor.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/baidu/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/baidu/iop/zhiban/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/baidu/iop/zhiban/configuration/ApplicationProperties.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/baidu/iop/zhiban/configuration/ConstantProperties.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/baidu/iop/zhiban/configuration/CorsProperties.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/baidu/iop/zhiban/configuration/CustomSystemExceptionHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/baidu/iop/zhiban/configuration/CustomWebMvcConfigurer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/baidu/iop/zhiban/configuration/NormalizationResponseBodyAdvice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/baidu/iop/zhiban/configuration/PageHelperConf.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/baidu/iop/zhiban/domain/ZhibanInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/baidu/iop/zhiban/domain/ZhibanUsersInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/baidu/iop/zhiban/util/Constant.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/baidu/iop/zhiban/util/HttpClientUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/baidu/iop/zhiban/util/TestMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/baidu/iop/zhiban/util/TimeoutHttpRetryHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/baidu/iop/zhiban/util/Util.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/baidu/iop/zhiban/web/controller/ApplicationInfoController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/baidu/iop/zhiban/web/controller/BaseController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/baidu/iop/zhiban/web/controller/ZhibanInfoController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/baidu/iop/zhiban/web/controller/dto/BasePageResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/baidu/iop/zhiban/web/controller/dto/BaseResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/baidu/iop/zhiban/web/controller/dto/Code.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/baidu/iop/zhiban/web/controller/dto/ErrorResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/baidu/iop/zhiban/web/controller/dto/MsgResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/baidu/iop/zhiban/web/controller/dto/PageDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/baidu/iop/zhiban/web/controller/dto/SimplePageDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/application.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/cacerts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/data.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/i18n/messages_en.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/i18n/messages_zh_CN.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/iplist.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/logback-spring.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/schema.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/templates/case_report_dasou.vm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/whiteList.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/com/baidu/iop/zhiban/AbstractSpringTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thrift" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/camera.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="140">
+              <caret line="23" column="33" lean-forward="true" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
+              <folding>
+                <element signature="e#14#24#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/compareColor.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="16">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/detectMouth.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="296">
+              <caret line="57" column="31" selection-start-line="57" selection-start-column="31" selection-end-line="57" selection-end-column="31" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lipColor.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Library/Caches/PyCharm2019.1/python_stubs/-643028152/dlib/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="16440">
+              <caret line="1098" column="4" selection-start-line="1098" selection-start-column="4" selection-end-line="1098" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>load</find>
+      <find>crop</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/getcolor.py" />
+        <option value="$PROJECT_DIR$/loadColor.py" />
+        <option value="$PROJECT_DIR$/compaColor.py" />
+        <option value="$PROJECT_DIR$/ll.py" />
+        <option value="$PROJECT_DIR$/getColor.py" />
+        <option value="$PROJECT_DIR$/lipstick.json" />
+        <option value="$PROJECT_DIR$/lipColor.py" />
+        <option value="$PROJECT_DIR$/detectMouth.py" />
+        <option value="$PROJECT_DIR$/compareColor.py" />
+        <option value="$PROJECT_DIR$/camera.py" />
+        <option value="$PROJECT_DIR$/main.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="21" />
+    <option name="y" value="33" />
+    <option name="width" value="1280" />
+    <option name="height" value="726" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="lipIdentify" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lipIdentify" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lipIdentify" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lipIdentify" type="462c0819:PsiDirectoryNode" />
+              <item name="color_json" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lipIdentify" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lipIdentify" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lipIdentify" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lipIdentify" type="462c0819:PsiDirectoryNode" />
+              <item name="input" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lipIdentify" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/color_json" />
+      <recent name="$PROJECT_DIR$/images" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.compareColor">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="lipIdentify" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="camera" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="lipIdentify" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/camera.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="compareColor" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="lipIdentify" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/compareColor.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="detectMouth" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="lipIdentify" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/detectMouth.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.compareColor" />
+        <item itemvalue="Python.camera" />
+        <item itemvalue="Python.detectMouth" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="df507d27-7e55-4d49-9c8c-6e030a20ad34" name="Default Changelist" comment="" />
+      <created>1565143876367</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565143876367</updated>
+      <workItem from="1565143878069" duration="11916000" />
+      <workItem from="1565170440215" duration="217000" />
+      <workItem from="1565170662972" duration="380000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="12513000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1280" height="726" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21647818" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3280757" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.5205047" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50080776" side_tool="true" weight="0.29810727" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.49919224" visible="true" weight="0.3280757" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.32956383" />
+      <window_info anchor="right" x="0" y="0" width="270" height="528" id="Documentation" order="4" side_tool="true" weight="0.32956383" />
+      <window_info anchor="right" id="Database" order="5" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lipColor.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/lipIdentify$detectMouth.coverage" NAME="detectMouth Coverage Results" MODIFIED="1565159812536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/lipIdentify$compareColor.coverage" NAME="compareColor Coverage Results" MODIFIED="1565163734715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>image</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>source</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>abs(r*2104+g*4130+b*802+4096+131072)&gt;&gt;13235</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>min(abs(r*2104+g*4130+b*802+4096+131072)&gt;&gt;13235)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>abs(r*2104+g*4130+b*802+4096+131072)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>min(abs(r*2104+g*4130+b*802+4096+131072)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>image.getcolors(image.size[0]*image.size[1])</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>getColor.Image.open(img_dir)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>dir</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2019.1/python_stubs/-643028152/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/compaColor.py" />
+    <entry file="file://$USER_HOME$/anaconda3/envs/python36/lib/python3.6/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="308" selection-start-line="308" selection-end-line="308" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/envs/python36/lib/python3.6/site-packages/PIL/Image.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="1134" selection-start-line="1134" selection-end-line="1134" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/color_json/lipstick.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/getColor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="30" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/envs/python36/lib/python3.6/site-packages/IPython/core/interactiveshell.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="2880" selection-start-line="2880" selection-end-line="2880" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2019.1/python_stubs/-643028152/dlib/shape_predictor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="40" column="8" selection-start-line="40" selection-start-column="8" selection-end-line="40" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/face.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/color_json/tomato.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/input/source.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/input/source2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2019.1/python_stubs/-643028152/cv2/cv2/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="7468" column="4" selection-start-line="7468" selection-start-column="4" selection-end-line="7468" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/Mouth1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/Mouth2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py" />
+    <entry file="file://$PROJECT_DIR$/camera.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="23" column="33" lean-forward="true" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
+          <folding>
+            <element signature="e#14#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lipColor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2019.1/python_stubs/-643028152/dlib/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16440">
+          <caret line="1098" column="4" selection-start-line="1098" selection-start-column="4" selection-end-line="1098" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/compareColor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/detectMouth.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="57" column="31" selection-start-line="57" selection-start-column="31" selection-end-line="57" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
