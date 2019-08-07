@@ -7,3 +7,5 @@ compareColor：对比色号
 detectMouth：人脸识别截取出嘴的图片
 getColor：测试图片时获取rgb
 lipColor:加载图片及颜色 
+
+仅供娱乐，哈哈哈...
